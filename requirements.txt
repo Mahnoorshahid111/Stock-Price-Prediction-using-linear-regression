@@ -1,0 +1,8 @@
+streamlit==1.25.0
+yfinance==0.2.36
+pandas==2.2.2
+pillow==10.3.0
+requests==2.31.0
+streamlit-lottie==0.0.5
+scikit-learn==1.4.2
+plotly==5.21.0 
